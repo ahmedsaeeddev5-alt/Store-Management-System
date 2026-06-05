@@ -1,0 +1,11 @@
+﻿@model Product
+
+<h2>Product Details</h2>
+
+<div class="card p-3 mb-3">
+    <div class="mb-2"><strong>Name:</strong> @Model.Name</div>
+    <div class="mb-2"><strong>Price:</strong> @Model.Price</div>
+    <div class="mb-2"><strong>Quantity:</strong> @Model.Quantity</div>
+</div>
+
+<a asp-action="Index" class="btn btn-primary">Back</a>
