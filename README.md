@@ -68,9 +68,15 @@ This project follows modern backend design principles:
 ---
 
 ## 📸 Screenshots
----
-### 🔐 Home Page
-<img src="./Screenshots/login.png" width="900"/>
+
+### 🏠 Dashboard / Home
+
+<img src="CRUD Smartstore/Screenshots/login.png" width="800"/>
+
+
+### 📦 Products Management
+
+<img src="CRUD Smartstore/Screenshots/products.png" width="800"/>
 ---
 
 ## 📂 Project Structure
