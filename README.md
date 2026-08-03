@@ -68,18 +68,9 @@ This project follows modern backend design principles:
 ---
 
 ## 📸 Screenshots
-
-> Replace with actual screenshots from your project
-
-### 🏠 Home Page
-![Home Page](screenshots/home.png)
-
-### 📦 Products Management
-![Products](screenshots/products.png)
-
-### ➕ Create / Edit Product Form
-![Form](screenshots/form.png)
-
+---
+### 🔐 Home Page
+<img src="./Screenshots/login.png" width="900"/>
 ---
 
 ## 📂 Project Structure
